@@ -1,0 +1,34 @@
+{
+  "Cafeteria": [
+    {
+      "nombre": "Cafe ",
+      "precio": "110",
+      "categoria": "bebida-caliente",
+      "id": 1
+    },
+    {
+      "nombre": "galletas",
+      "precio": "60",
+      "categoria": "dulce",
+      "id": 3
+    },
+    {
+      "nombre": "Coca ",
+      "precio": "10",
+      "categoria": "bebida-fria",
+      "id": 4
+    },
+    {
+      "nombre": "Submarino",
+      "precio": "15",
+      "categoria": "bebida-caliente",
+      "id": 5
+    },
+    {
+      "nombre": "pipi",
+      "precio": "50",
+      "categoria": "sandwich",
+      "id": 6
+    }
+  ]
+}
